@@ -1,0 +1,44 @@
+body{
+    padding-bottom:50px;
+    background-color: rgb(245, 210, 210);
+}
+.menu{
+    background-color: rgb(201, 201, 200);
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+.m{
+   opacity: 80%;
+   text-align: center; 
+}
+.m:hover{
+    opacity: 100%;
+    zoom: 105%;
+    text-shadow: 3px;
+    color: black;
+    box-shadow: 50px;
+}
+.fixed-bg{
+    background-image: url(./img/hero.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.b1{
+    text-align: center;
+    color: black;
+}
+.b2{
+    text-align: center;
+    margin-top: 5px;
+    color: black;
+}
+.ca{
+    text-align: center;
+    position: initial;
+}
+.ho:hover{
+    zoom: 105%;
+}
